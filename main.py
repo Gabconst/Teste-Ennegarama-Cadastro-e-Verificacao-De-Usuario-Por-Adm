@@ -201,5 +201,7 @@ def main():
 
 main()
 
+#o login de usuario é "ADM" e a senha é "adm123"
+
 if __name__ == "_main_":
     main()
