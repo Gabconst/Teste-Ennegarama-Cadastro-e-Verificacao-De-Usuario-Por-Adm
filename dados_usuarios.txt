@@ -1,0 +1,1 @@
+{"nome": "Gabriel", "idade": "22", "genero": "Masculino", "nacionalidade": "Brasil", "tipo_personalidade": 2}
